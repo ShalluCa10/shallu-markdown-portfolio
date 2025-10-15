@@ -12,5 +12,5 @@ A Flutter app to order food online.
 A Flutter Pizza booking app for order pizza from restaurants.  
 **Tech:** React Native, Firebase, Flexbox UI
 
-[Back to Home](./index.markdown) | [ Contact](./contact.markdown)
+[Back to Home](./index.markdown) | [📞 Contact](./contact.markdown)
 

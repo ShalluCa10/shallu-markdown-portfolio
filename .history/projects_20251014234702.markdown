@@ -1,0 +1,16 @@
+# My Projects
+
+### [MyRide901](https://apps.apple.com/ca/app/myride901-car-info-manager/id1562006468)
+A Flutter app that helps users manage and track their car maintenance  
+**Tech:** Flutter, Firestore, Laravel
+
+### [Sizzling Grill](https://play.google.com/store/apps/details?id=com.sizzling_grill_loop_2&hl=en_CA)
+A Flutter app to order food online. 
+**Tech:** Flutter, Dart,  Firebase Firestore, Node.Js
+
+### [Food Booking App](https://play.google.com/store/apps/details?id=com.top_in_town_pizza&hl=en_CA)
+A Flutter booking app for nearby restaurants.  
+**Tech:** React Native, Firebase, Flexbox UI
+
+[🏠 Back to Home](./index.markdown) | [📞 Contact](./contact.markdown)
+

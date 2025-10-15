@@ -1,0 +1,11 @@
+# 👋 Welcome to My Portfolio
+
+Hi, I’m **Shallu Sameera**, a passionate mobile app and web developer.
+
+I love building creative, user-friendly, and efficient apps using **Flutter**, **SwiftUI**, and **React Native**.
+
+## 
+
+##  Explore My Portfolio
+- [Projects](./projects.md)
+- [Contact Me](./contact.md)

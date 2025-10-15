@@ -1,0 +1,16 @@
+# My Projects
+
+### [MyRide901](https://apps.apple.com/ca/app/myride901-car-info-manager/id1562006468)
+A SwiftUI app that helps users manage and track their plants.  
+**Tech:** SwiftUI, Firestore, CoreLocation
+
+### 💰 YourFirstName-Crypto
+A React Native app that displays live cryptocurrency data.  
+**Tech:** React Native, Firebase Firestore, CoinLore API
+
+### 🍔 Food Booking App
+A group project for booking meals from nearby restaurants.  
+**Tech:** React Native, Firebase, Flexbox UI
+
+[🏠 Back to Home](./index.md) | [📞 Contact](./contact.md)
+
